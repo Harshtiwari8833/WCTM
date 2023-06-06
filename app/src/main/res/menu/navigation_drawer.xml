@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/navigation_youtube"
+      android:title="Youtube"
+    android:icon="@drawable/youtube"/>
+
+  <item android:id="@+id/navigation_ebook"
+      android:title="Ebook"
+    android:icon="@drawable/ebook"/>
+
+  <item android:id="@+id/navigation_checkresult"
+      android:title="Check Result"
+    android:icon="@drawable/result"/>
+
+  <item android:id="@+id/navigation_website"
+      android:title="Website"
+    android:icon="@drawable/website"/>
+
+  <item android:id="@+id/navigation_rate"
+      android:title="Rate us"
+    android:icon="@drawable/rate"/>
+
+  <item android:id="@+id/navigation_developer"
+      android:title="Developer"
+    android:icon="@drawable/developer"/>
+
+
+</menu>

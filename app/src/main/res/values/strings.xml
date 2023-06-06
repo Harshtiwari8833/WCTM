@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">WCTM</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="para7">Committed to set new bench-marks in innovation to maintain our edge over others, as the college is promoted by ex-IITians.</string>
+    <string name="para6">Encouraging and boosting up the young talent by recognizing and awarding toppers whose names figure in the Merit lists of the University.</string>
+    <string name="para5">Run vibrant undergraduate and strong postgraduate programs in engineering and management streams with world class teaching, learning environment with modern pedagogy and most advanced technical infrastructure.</string>
+    <string name="para4">Aiming to impart inclusive knowledge about principles of engineering and management skills with a multi-disciplinary approach to develop proficient human resources for offering services to society.</string>
+    <string name="para3">Establishing global leadership by developing young talent with intellectual technologies and applications which further contributes to technical development of society on national and International levels in the field of technology and management.</string>
+    <string name="para2">World College of Technology and Management (WCTM) is established with the sole motive of developing an intellectually invigorating environment by imparting quality education in the field of technology and management. Incepted in the year 2007, WCTM is located across 18 acres amidst a lush green environment of National Capital Region (NCR). WCTM was established by Amma Chandravati Educational and Charitable Trust. At WCTM, We focus on</string>
+    <string name="para1">Approved by All India Council for Technical Education (AICTE), Ministry of HRD, Govt. of India, New Delhi and affiliated to MDU Rohtak.</string>
+    <string name="about_college">World College of Technology and Management, established in 2007, is a private college affiliated to Maharshi Dayanand University (NAAC A+ Grade University) and approved by AICTE (DTE Department of Technical Education Haryana, Ministry of HRD) and HSBTE (Haryana State Board of Tech Education). The college offers various UG, PG and Diploma courses in the discipline of Engineering, Technology, Management and Computer Application. The flagship courses of the college are B.Tech across 8 specializations, M.Tech in 5 specializations and MBA across 5 specializations. Apart from that, WCTM also offers BBA, BCA, MCA and Polytechnic Diploma courses.</string>
+</resources>
